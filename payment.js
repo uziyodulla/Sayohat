@@ -7,6 +7,7 @@ let link = `https://deepak-server-dosm.onrender.com/country`
 // fetchdata(url)
 function countrydata(url) {
   let dataretuen = localStorage.getItem("id")
+  let data=
   fetch(`${url}/${dataretuen || 1}`)
     .then((res) => {
       return res.json();
@@ -20,6 +21,11 @@ function countrydata(url) {
     })
 }
 countrydata(link)
+
+
+
+
+
 // creata card function 
 let container=document.querySelector('.container');
 let billing_container=document.querySelector('.billing-container');

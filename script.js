@@ -441,7 +441,7 @@ HikingPackageLink.addEventListener('click', (e) => {
     },
     {
         "Image": "https://travel.usnews.com/dims4/USNEWS/1fa02ff/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2Floch_vale_getty_resized_445x280_y7RfF8x.jpg",
-        "Detail": "Denverdan taxminan 70 milya shimoli-g'arbda joylashgan ushbu milliy xazina Koloradoda ko'rish kerak. Qulay sharoitlarga (Estes Park), yovvoyi tabiatning hayajonli imkoniyatlariga (o'ylab ko'ring: ilg'oq, bo'yni va katta shoxli qo'ylar) va 350 milyadan ortiq yo'llarga ega asosiy lagerga ega Rokki Tog'li milliy bog'i sayohatchilarning orzusidir. 14erni (dengiz sathidan 14000 futdan baland cho'qqi) zabt etishga intilayotgan ilg'or trekkerlar ulug'vor Longs cho'qqisiga chiqishlari mumkin.",
+        "Detail": "Denverdan taxminan 70 milya shimoli-g'arbda joylashgan ushbu milliy xazina Koloradoda ko'rish kerak.",
         "Location": "Rokki tog' milliy bog'i",
         "Price": 4000,
         "Time": "3 marta o'qildi",
