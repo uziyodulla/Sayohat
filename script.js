@@ -432,7 +432,7 @@ HikingPackageLink.addEventListener('click', (e) => {
   let data = [
     {
         "Image": "https://travel.usnews.com/dims4/USNEWS/c4892c1/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2FFall-Color-Mammoth-Lakes-Basin-Josh_Wray-Mammoth_Lakes_Tourism_dcbVtu4.jpg",
-        "Detail": "Sharqiy Sierradagi Kaliforniya shahri uzoq chang'i mavsumi bilan sarguzasht sayohatchilarni o'ziga tortadi, ammo uning granit cho'qqilari, o'rmonlar va alp ko'llari bo'ylab egilgan 300 dan ortiq milya yo'llari bir xil darajada tetiklantiruvchi. Crystal Lake Trail, Mamont ko'llari havzasining panoramik ko'rinishi bilan mo''tadil yurish - bu majburiydir.",
+        "Detail": "Sharqiy Sierradagi Kaliforniya shahri uzoq chang'i mavsumi bilan sarguzasht sayohatchilarni o'ziga tortadi, ammo uning granit cho'qqilari, o'rmonlar va alp ko'llari bo'ylab egilgan 300 dan ortiq milya yo'llari bir xil darajada tetiklantiruvchi.",
         "Location": "Mamont ko'llari",
         "Price": 8000,
         "Time": "4 marta o'qildi",
