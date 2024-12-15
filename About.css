@@ -5,6 +5,20 @@ body {
   margin: 0;
   padding: 0;
 }
+.mybutton{
+  /* width: 170px; */
+  background-color: rgb(252, 101, 54);
+  border: none;
+  color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 10px 10px;
+  font-size: 14px;
+  border-radius: 15px;
+}
+.mybutton:hover{
+  background: white;
+  color: rgb(252, 101, 54); 
+}
 /* <!--nishant - uppermost conatiner --> */
 header {
   width: 100%;
