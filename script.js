@@ -121,9 +121,9 @@ function  displaydata(data){
     // ========================================
    //add eventlistner on book get id of card
     book.setAttribute("id", ele.id);
-    book.addEventListener("click", ()=>{
-      booknow(ele);
-    });
+    // book.addEventListener("click", ()=>{
+    //   booknow(ele);
+    // });
     bookdiv.append(parap, book);
     
     card.append(img, buttonR, head, para, lastdiv, bookdiv);
@@ -195,10 +195,10 @@ let arr = JSON.parse(localStorage.getItem("key"))||[]
 //   
 // }
 
-function booknow(ele){
-  localStorage.setItem("id", ele.id);
-  redirectToPage('payment.html');
-}
+// function booknow(ele){
+//   localStorage.setItem("id", ele.id);
+//   redirectToPage('payment.html');
+// }
 
 //=======================================Package functionality==============================================
 
@@ -256,9 +256,9 @@ function createCardForDisplay(placesDataArr){
     let buttonCont = document.createElement("div");
     let buttonBook = document.createElement("button");
     buttonBook.textContent = "O'qish";
-    buttonBook.addEventListener("click", ()=>{
-      booknow(placeObj);
-    });
+    // buttonBook.addEventListener("click", ()=>{
+    //   booknow(placeObj);
+    // });
     buttonCont.append(buttonBook);
     priceAndBookBtnCont.append(priceCont);
     priceAndBookBtnCont.append(buttonCont);
